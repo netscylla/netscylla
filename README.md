@@ -6,7 +6,7 @@ Netscylla Links:
 - 🦅[Twitter](https://www.twitter.com/netscylla)
 
 ## Our horde
-We've created several projects and scripts to help our day-2-day activities, here you'll find
+We've created several projects and scripts to help our day-2-day activities, here you'll find several technologies and languages such as:
 - 👾 C /C++
 - 🐍 Python
 - 🐳 Docker
